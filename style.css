@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 20%;
+    margin-top: 5%;
+    color: blue;
+    text-shadow: 2px 2px white;
+    background-color: #ffeb3ba3;
+    background-image: url(bgpic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+        
+}
